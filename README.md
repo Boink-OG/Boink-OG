@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Boink-OG
+- 👀 I’m interested: in creating GUI's for roblox exploiters and scripts.
+- 🌱 I’m currently learning: LUA
+- 📫 How to reach me: Discord, Username: Boink_OG#9105, ID: 592386290549391388
